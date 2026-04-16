@@ -1,3 +1,6 @@
+#Context
+Attempt to create an interface to integrate with an air conditioning control API at IFRN.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
